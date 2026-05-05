@@ -130,4 +130,11 @@ Configured via `.env`:
 
 ## 👨‍💻 Author
 
-**Kanishk Joshi**
+**Yash Chordiya**  
+
+Specializing in LLM deployment, multi-agent AI systems, and quantitative finance.  
+Built production-grade AI pipelines processing 500+ emails/day and developed data-driven trading strategies with strong risk-adjusted performance.
+
+- 🔗 GitHub: https://github.com/yashchordiya07  
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-chordiya20  
+- 📧 Email: yashchordiya7@gmail.com
